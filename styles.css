@@ -1,0 +1,81 @@
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    height: 100px;
+    
+    
+}
+.secondheader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-family: georgia; font-size: 64px; color: #EA9800;
+}
+h5 {
+    font-family: georgia; font-size: 24px; color: #F9F9F9;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    background-color:white;    
+}
+.rightcrnr {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-grow: 1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hrs {
+    width: 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: 16px;
+    display: flex;
+
+
+}
+.special {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    border:outset; 
+    border-color:#EA9800;
+
+}
+.HC {
+    background-color: #EA9800;
+    width: 600px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.description {
+    width: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar-toggler {
+    background-color:#EA9800 ;
+}
+
+.lastdiv {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #EA9800;
+}
+.contactbody {
+    background-color: #EA9800;
+}
+.jklastone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #EA9800;
+}
+.contact {
+    width: 400px;
+}
